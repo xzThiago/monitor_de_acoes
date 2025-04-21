@@ -25,8 +25,8 @@ Este projeto é um **monitor de ações interativo** feito com [Streamlit](https
 ---
 ----------------------------------------------------------------------------
 ## Importante
-O app.py está funcionando perfeitamente.
-Mas já project.py utilizando a biblioteca "investpy" não está funcionado... 
+O app.py está funcionando perfeitamente.\n
+Mas já project.py utilizando a biblioteca "investpy" não está funcionado...\n
 O investpy não está mais funcionando.
 ##
 ----------------------------------------------------------------------------
